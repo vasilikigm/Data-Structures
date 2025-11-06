@@ -1,5 +1,5 @@
 # Data-Structures
-Assignments for the Data Structures course in the Department of Electrical and Computer Engineering at Aristotle University of Thessaloniki. The assignments include the implementation of a Hunger Games game in Java.
+Group project assignments for the Data Structures course in the Department of Electrical and Computer Engineering at Aristotle University of Thessaloniki. The assignments include the implementation of a Hunger Games game in Java.
 
 It is a simplified Java version of Hunger Games. Two players move on a board, collect weapons and food, avoid traps, and try to survive.
 
